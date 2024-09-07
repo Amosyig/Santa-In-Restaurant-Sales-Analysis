@@ -1,7 +1,6 @@
 # Santa-In-Restaurant-Sales-Analysis
 
-![](atliq_hardware_image.jpg)
-
+![12525](https://github.com/user-attachments/assets/26452eb4-e306-44a6-ad17-d6c687775bc4)
 
 
 ## Introduction
@@ -39,6 +38,6 @@ From the beginning of 2014 to mid-2016, total revenue reached $24.2 million, wit
 ## Conclusion and Recommendations:
 
 This is a link to a medium post for more details: 
-![Lorem Ipsum]()
+https://www.datascienceportfol.io/yole_amos/projects/2
 
 Thanks!
